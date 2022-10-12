@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @rbrta
 - 👀 I’m interested in frontend and backend technologies
-- 🌱 I’m currently learning nestjs
-- 💞️ I’m looking to collaborate on web-service
 - 📫 How to reach me - tg: @longliverob 
